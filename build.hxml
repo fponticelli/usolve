@@ -1,0 +1,6 @@
+-cp src
+-js bin/usolve.js
+-lib thx.core
+-lib thx.geom
+usolve.AbstractConstraint
+usolve.Strength
